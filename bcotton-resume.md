@@ -44,19 +44,25 @@
 
 ## External activities/memberships
 
-* Conference blogger, LISA Conference (2010, 2011)
-* Featured weather blogger, JConline.com (2010-present)
+* Conference blogger, [LISA Conference][lisablog] (2010, 2011)
+* Featured weather blogger, [JConline.com][weatherblog] (2010-present)
 * Member, League of Professional Systems Administrators (2009-present)
-* Contributor, Sysadvent Blog (2009, 2010)
-* Documentation Team, Fedora Project (2009-present)
+* Contributor, [Sysadvent Blog][sysadvent] (2009, 2010)
+* Documentation Team, [Fedora Project][fedoradocs] (2009-present)
     * Documentation Team Lead (2011-present)
     * Writer (2009-present)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
 
-* "Condor in your machine room and on your campus" (panel), Condor Week (May 2011)
-* "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), Condor Week (May 2011) 
-* "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), Cloud Computing and Its Applications conference (April 2011)
+* "Condor in your machine room and on your campus" (panel), [Condor Week][condorweek11] (May 2011)
+* "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), [Condor Week][condorweek11] (May 2011) 
+* "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), [Cloud Computing and Its Applications conference][cca11] (April 2011)
 * Condor BoF host, LISA Conference (November 2010)
 
+[lisablog]: http://blogs.usenix.org/
+[weatherblog]: http://www.jconline.com/weatherblog
+[sysadvent]: http://sysadvent.blogspot.com/
+[fedoradocs]: http://docs.fedoraproject.org
+[cca11]: http://cca11.org/
+[condorweek11]: http://www.cs.wisc.edu/condor/CondorWeek2011/
