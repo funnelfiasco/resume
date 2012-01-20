@@ -1,4 +1,4 @@
-# Benjamin J. Cotton 
+# Benjamin J. Cotton
 *bcotton@funnelfiasco.com*
 
 ## Experience
@@ -51,6 +51,7 @@
 * Documentation Team, Fedora Project (2009-present)
     * Documentation Team Lead (2011-present)
     * Writer (2009-present)
+* GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
 
@@ -58,3 +59,4 @@
 * "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), Condor Week (May 2011) 
 * "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), Cloud Computing and Its Applications conference (April 2011)
 * Condor BoF host, LISA Conference (November 2010)
+
