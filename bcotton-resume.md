@@ -3,23 +3,34 @@
 
 ## Experience
 
-#### IT Systems & Operations, Purdue University
-*Systems Research Engineer (Oct. 2009 - present)*
+#### Rosen Center for Advanced Computing, Purdue University
+*Research Programmer (June 2012 - present)*
 
-* Curate and develop Condor environment at Purdue
-* Create and maintain campus grid software and middleware for local and DiaGrid partner institutions
-* Participate in and support national grid computing activities (e.g. TeraGrid/XSEDE)
+* Serve as release manager for developed applications
+* Engage with science communities to use and develop science hubs
+* Provide training and documentation to users of scientific computing tools
+* Coordinate a project to bring high performance computing to the classroom
+* Contribute to grant proposals involving high performance computing
+
+#### IT Systems & Operations, Purdue University
+*Systems Research Engineer (October 2009 - May 2012)*
+
+* Curate and develop HTCondor distributed computing environment at Purdue
+* Provide systems and user support for national grid computing activities (e.g. TeraGrid/XSEDE)
+* Administer 4000 hosts as part of computing cluster and infrastructure resources
 * Provide training to internal and external audiences
-* Serve as Security Officer for IT Systems and Operations, representing the organization to the CISO and serving as a liason with the Networks and Security group.
+* Develop frameworks for documentation
+* Serve as Security Officer for IT Systems and Operations, representing the organization to the CISO and serving as a liaison with the Networks and Security group.
+* Supervise 10-12 student employees
 
 #### Department of Earth and Atmospheric Science, Purdue University  
 *Unix Workstation Support/Systems Administrator (September 2006 - October 2009)*
 
+* Maintain and develop departmental Linux and Solaris servers
 * Provide support to users of Linux, Solaris, Mac OS X, and Windows platforms
 * Serve as lead for departmental IT staff and representative to department faculty and other groups on campus
 * Serve as Security Contact for department, working with University- and College-level security staff to respond to security incidents in the department
-* Hire and supervise 3-5 student employees
-* Maintain and develop departmental Linux and Solaris servers
+* Supervise 3-5 student employees
 * Approve departmental IT purchases and maintain IT budget
 * Coordinate professional development of IT staff and provide training to faculty and staff
 
@@ -37,17 +48,17 @@
 
 ## Education
 
-* M.S. in IT Project Management, expected August 2014
+* M.S. in IT Project Management, expected December 2014
      * Purdue University, West Lafayette, IN
 * B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
      * Purdue University, West Lafayette, IN
 
 ## External activities/memberships
 
-* Conference blogger, [LISA Conference][lisablog] (2010, 2011)
-* Featured weather blogger, [JConline.com][weatherblog] (2010-present)
+* Conference blogger, [LISA Conference][lisablog] (2010-2012)
+* Weather contributor, JConline.com (2010-present)
 * Member, League of Professional Systems Administrators (2009-present)
-* Contributor, [Sysadvent Blog][sysadvent] (2009, 2010)
+* Contributor, [Sysadvent Blog][sysadvent] (2009, 2010, 2012)
 * Documentation Team, [Fedora Project][fedoradocs] (2009-present)
     * Documentation Team Lead (2011-present)
     * Writer (2009-present)
@@ -55,14 +66,19 @@
 
 ## Publications/presentations
 
+* "DiaGrid - Instant Access to High Throughput Computing" (presentation) [OSG Campus Infrastucture Community Workshop][osgcicw12] (November 2012)
+* "High-Throughput Computing With XSEDE" (tutorial), [XSEDE 12][xsede12] (July 2012)
+* "The Good, the Bad, and the Ugly: Feedback Forum" (panel), [Condor Week][condorweek12] (May 2012)
 * "Condor in your machine room and on your campus" (panel), [Condor Week][condorweek11] (May 2011)
 * "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), [Condor Week][condorweek11] (May 2011) 
 * "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), [Cloud Computing and Its Applications conference][cca11] (April 2011)
 * Condor BoF host, LISA Conference (November 2010)
 
 [lisablog]: http://blogs.usenix.org/
-[weatherblog]: http://www.jconline.com/weatherblog
 [sysadvent]: http://sysadvent.blogspot.com/
 [fedoradocs]: http://docs.fedoraproject.org
 [cca11]: http://cca11.org/
 [condorweek11]: http://www.cs.wisc.edu/condor/CondorWeek2011/
+[condorweek12]: http://www.cs.wisc.edu/condor/CondorWeek2012/
+[xsede12]: https://www.xsede.org/web/xsede12/
+[osgcicw12]: https://indico.fnal.gov/conferenceTimeTable.py?confId=5927
