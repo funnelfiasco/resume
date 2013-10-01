@@ -3,8 +3,16 @@
 
 ## Experience
 
+#### Cycle Computing, LLC
+*Senior Support Engineer (July 2013 - present)*
+
+* Provide first-level customer support
+* Develop and maintain documentation and infrastructure related to customer support
+* Lead support engineers and guide support practices
+* Develop workflow tools
+
 #### Rosen Center for Advanced Computing, Purdue University
-*Research Programmer (June 2012 - present)*
+*Research Programmer (June 2012 - June 2013)*
 
 * Serve as release manager for developed applications
 * Engage with science communities to use and develop science hubs
@@ -55,17 +63,19 @@
 
 ## External activities/memberships
 
-* Conference blogger, [LISA Conference][lisablog] (2010-2012)
-* Weather contributor, JConline.com (2010-present)
+* Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
+* Conference blogger, [LISA Conference][lisablog] (2010-2013)
+* Weather contributor, JConline.com (2010-2012)
 * Member, League of Professional Systems Administrators (2009-present)
 * Contributor, [Sysadvent Blog][sysadvent] (2009, 2010, 2012)
 * Documentation Team, [Fedora Project][fedoradocs] (2009-present)
-    * Documentation Team Lead (2011-present)
+    * Documentation Team Lead (2011-2013)
     * Writer (2009-present)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
-
+* "Developing a scientific computing course for the undergraduate curriculum" (poster) [Summit for Educators in System Administration][sesa13] (November 2013)
+* "BLASTer: A hub-based tool for bioinformatics" [Grid and Cloud Computing and Applications][gca13] (July 2013)
 * "DiaGrid - Instant Access to High Throughput Computing" (presentation) [OSG Campus Infrastucture Community Workshop][osgcicw12] (November 2012)
 * "High-Throughput Computing With XSEDE" (tutorial), [XSEDE 12][xsede12] (July 2012)
 * "The Good, the Bad, and the Ugly: Feedback Forum" (panel), [Condor Week][condorweek12] (May 2012)
@@ -74,6 +84,7 @@
 * "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), [Cloud Computing and Its Applications conference][cca11] (April 2011)
 * Condor BoF host, LISA Conference (November 2010)
 
+[thinklafayette]: http://thinklafayette.com
 [lisablog]: http://blogs.usenix.org/
 [sysadvent]: http://sysadvent.blogspot.com/
 [fedoradocs]: http://docs.fedoraproject.org
@@ -82,3 +93,5 @@
 [condorweek12]: http://www.cs.wisc.edu/condor/CondorWeek2012/
 [xsede12]: https://www.xsede.org/web/xsede12/
 [osgcicw12]: https://indico.fnal.gov/conferenceTimeTable.py?confId=5927
+[gca13]: http://www.world-academy-of-science.org/worldcomp13/ws/conferences/gca13
+[sesa13]: https://www.usenix.org/conference/sesa13
