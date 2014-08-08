@@ -6,10 +6,10 @@
 #### Cycle Computing, LLC
 *Senior Support Engineer (July 2013 - present)*
 
-* Provide first-level customer support
+* Develop and guide company-wide support practices
 * Develop and maintain documentation and infrastructure related to customer support
-* Lead support engineers and guide support practices
-* Develop workflow tools
+* Develop workflow tools and configuration management infrastructure
+* Provide first-level customer support to customers and community mailing lists
 
 #### Rosen Center for Advanced Computing, Purdue University
 *Research Programmer (June 2012 - June 2013)*
@@ -52,7 +52,7 @@
 * Maintain Unidata LDM software for weather data ingest
 * Develop scripts to generate weather data images for web and desktop use
 * Provide support to users of data visualization software
-* Administer Forecast Game, including maintain web pages and scripts, obtaining verification data, and handling player enrollment
+* Administer Forecast Game, including maintaining web pages and scripts, obtaining verification data, and handling player enrollment
 
 ## Education
 
@@ -66,8 +66,9 @@
 * Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
 * Conference blogger, [LISA Conference][lisablog] (2010-2013)
 * Weather contributor, JConline.com (2010-2012)
-* Member, League of Professional Systems Administrators (2009-present)
-* Contributor, [Sysadvent Blog][sysadvent] (2009, 2010, 2012)
+* [Sysadvent Blog][sysadvent]
+    * Contributing writer (2009, 2010, 2012)
+    * Contributing editor (2013)
 * Documentation Team, [Fedora Project][fedoradocs] (2009-present)
     * Documentation Team Lead (2011-2013)
     * Writer (2009-present)
