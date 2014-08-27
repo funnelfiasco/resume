@@ -9,7 +9,7 @@
 * Develop and guide company-wide support practices
 * Develop and maintain documentation and infrastructure related to customer support
 * Develop workflow tools and configuration management infrastructure
-* Provide first-level customer support to customers and community mailing lists
+* Provide first-level support to customers and community mailing lists
 
 #### Rosen Center for Advanced Computing, Purdue University
 *Research Programmer (June 2012 - June 2013)*
