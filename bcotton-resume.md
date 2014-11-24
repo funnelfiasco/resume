@@ -66,7 +66,7 @@
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
-    * Contributing editor (2013)
+    * Contributing editor (2013-present)
 * Documentation Team, [Fedora Project][fedoradocs] (2009-present)
     * Documentation Team Lead (2011-2013)
     * Writer (2009-present)
