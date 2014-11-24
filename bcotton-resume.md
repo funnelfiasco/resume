@@ -1,6 +1,13 @@
 # Benjamin J. Cotton
 *bcotton@funnelfiasco.com*
 
+## Education
+* M.S. in IT Project Management, expected December 2014
+     * Thesis title: Impact of open source license selection on technical debt
+     * Purdue University, West Lafayette, IN
+* B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
+     * Purdue University, West Lafayette, IN
+
 ## Experience
 
 #### Cycle Computing, LLC
@@ -11,8 +18,8 @@
 * Develop workflow tools and configuration management infrastructure
 * Provide first-level support to customers and community mailing lists
 
-#### Rosen Center for Advanced Computing, Purdue University
-*Research Programmer (June 2012 - June 2013)*
+#### Purdue University
+*Research Programmer, Rosen Center for Advanced Computing (June 2012 - June 2013)*
 
 * Serve as release manager for developed applications
 * Engage with science communities to use and develop science hubs
@@ -20,8 +27,7 @@
 * Coordinate a project to bring high performance computing to the classroom
 * Contribute to grant proposals involving high performance computing
 
-#### IT Systems & Operations, Purdue University
-*Systems Research Engineer (October 2009 - May 2012)*
+*Systems Research Engineer, IT Systems and Operations (October 2009 - May 2012)*
 
 * Curate and develop HTCondor distributed computing environment at Purdue
 * Provide systems and user support for national grid computing activities (e.g. TeraGrid/XSEDE)
@@ -31,8 +37,7 @@
 * Serve as Security Officer for IT Systems and Operations, representing the organization to the CISO and serving as a liaison with the Networks and Security group.
 * Supervise 10-12 student employees
 
-#### Department of Earth and Atmospheric Science, Purdue University  
-*Unix Workstation Support/Systems Administrator (September 2006 - October 2009)*
+*Unix Workstation Support/Systems Administrator, Department of Earth & Atmospheric Sciences (September 2006 - October 2009)*
 
 * Maintain and develop departmental Linux and Solaris servers
 * Provide support to users of Linux, Solaris, Mac OS X, and Windows platforms
@@ -42,24 +47,17 @@
 * Approve departmental IT purchases and maintain IT budget
 * Coordinate professional development of IT staff and provide training to faculty and staff
 
-*Temporary Service (May - September 2006)*
+*Temporary Service, Department of Earth & Atmospheric Sciences (May - September 2006)*
 
 * Provide support to users of Linux, Solaris, Mac OS X, and Windows platforms
 * Perform general labor services at the direction of the Assistant Department Head
 
-*Student Service (April 2002 - May 2006)*
+*Student Service, Department of Earth & Atmospheric Sciences (April 2002 - May 2006)*
 
 * Maintain Unidata LDM software for weather data ingest
 * Develop scripts to generate weather data images for web and desktop use
 * Provide support to users of data visualization software
 * Administer Forecast Game, including maintaining web pages and scripts, obtaining verification data, and handling player enrollment
-
-## Education
-
-* M.S. in IT Project Management, expected December 2014
-     * Purdue University, West Lafayette, IN
-* B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
-     * Purdue University, West Lafayette, IN
 
 ## External activities/memberships
 
