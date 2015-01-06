@@ -61,6 +61,7 @@
 
 ## External activities/memberships
 
+* Member, Open Source Initiative (2014-present)
 * Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
 * Conference blogger, [LISA Conference][lisablog] (2010-2013)
 * Weather contributor, JConline.com (2010-2012)
