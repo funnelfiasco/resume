@@ -2,8 +2,8 @@
 *bcotton@funnelfiasco.com*
 
 ## Education
-* M.S. in IT Project Management, expected December 2014
-     * Thesis title: Impact of license selection on open source software quality, granted December 2014
+* M.S. in IT Project Management, granted December 2014
+     * Thesis title: Impact of license selection on open source software quality
      * Purdue University, West Lafayette, IN
 * B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
      * Purdue University, West Lafayette, IN
