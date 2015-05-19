@@ -74,6 +74,7 @@
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
+* "A study on the impact of open source license selection on software technical debt" 2015 International Business & Education Conferences (March 2015) (session "Best Paper")
 * "Developing a scientific computing course for the undergraduate curriculum" (poster) [Summit for Educators in System Administration][sesa13] (November 2013)
 * "BLASTer: A hub-based tool for bioinformatics" [Grid and Cloud Computing and Applications][gca13] (July 2013)
 * "DiaGrid - Instant Access to High Throughput Computing" (presentation) [OSG Campus Infrastucture Community Workshop][osgcicw12] (November 2012)
