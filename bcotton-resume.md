@@ -13,10 +13,10 @@
 #### Cycle Computing, LLC
 *Senior Support Engineer (July 2013 - present)*
 
-* Develop and guide company-wide support practices
+* Develop and enforce company-wide support practices
 * Develop and maintain documentation and infrastructure related to customer support
-* Develop workflow tools and configuration management infrastructure
-* Provide first-level support to customers and community mailing lists
+* Develop workflow tools, batch scheduling tools, and configuration management infrastructure
+* Provide batch scheduler and cloud orchestration support to customers and community mailing lists
 
 #### Purdue University
 *Research Programmer, Rosen Center for Advanced Computing (June 2012 - June 2013)*
@@ -61,8 +61,10 @@
 
 ## External activities/memberships
 
+* Community Moderator, [OpenSource.com][OSDC] (2015-present)
 * Member, Open Source Initiative (2014-present)
 * Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
+* Co-founder and tech talk coordinator, [Greater Lafayette Open Source SYmposium (GLOSSY)][GLOSSY] (2013-present)
 * Conference blogger, [LISA Conference][lisablog] (2010-2013)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
@@ -96,3 +98,5 @@
 [osgcicw12]: https://indico.fnal.gov/conferenceTimeTable.py?confId=5927
 [gca13]: http://www.world-academy-of-science.org/worldcomp13/ws/conferences/gca13
 [sesa13]: https://www.usenix.org/conference/sesa13
+[osdc]: http://opensource.com
+[glossy]: http://opensourcelafayette.org
