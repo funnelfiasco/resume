@@ -70,9 +70,10 @@
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
     * Contributing editor (2013-present)
-* Documentation Team, [Fedora Project][fedoradocs] (2009-present)
+* [Fedora Project][fedora] (2009-present)
+    * condor package co-maintainer (2015-present)
     * Documentation Team Lead (2011-2013)
-    * Writer (2009-present)
+    * Documentation Writer (2009-present)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
@@ -90,7 +91,7 @@
 [thinklafayette]: http://thinklafayette.com
 [lisablog]: http://blogs.usenix.org/
 [sysadvent]: http://sysadvent.blogspot.com/
-[fedoradocs]: http://docs.fedoraproject.org
+[fedora]: http://fedoraproject.org
 [cca11]: http://cca11.org/
 [condorweek11]: http://www.cs.wisc.edu/condor/CondorWeek2011/
 [condorweek12]: http://www.cs.wisc.edu/condor/CondorWeek2012/
