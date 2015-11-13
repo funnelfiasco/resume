@@ -13,9 +13,10 @@
 #### Cycle Computing, LLC
 *Senior Support Engineer (July 2013 - present)*
 
+* Manage the Support Engineering team
 * Develop and enforce company-wide support practices
 * Develop and maintain documentation and infrastructure related to customer support
-* Develop workflow tools, batch scheduling tools, and configuration management infrastructure
+* Develop workflow applications, batch scheduling tools, and configuration management infrastructure
 * Provide batch scheduler and cloud orchestration support to customers and community mailing lists
 
 #### Purdue University
