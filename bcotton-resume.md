@@ -62,11 +62,12 @@
 
 ## External activities/memberships
 
+* Invited Talks Co-Chair, [LISA Conference][lisa16] (2016)
 * Community Moderator, [OpenSource.com][OSDC] (2015-present)
 * Member, Open Source Initiative (2014-present)
 * Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
 * Co-founder and tech talk coordinator, [Greater Lafayette Open Source SYmposium (GLOSSY)][GLOSSY] (2013-present)
-* Conference blogger, [LISA Conference][lisablog] (2010-2013)
+* Conference blogger, [LISA Conference][lisablog] (2010-2013, 2015)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
@@ -90,7 +91,8 @@
 * Condor BoF host, LISA Conference (November 2010)
 
 [thinklafayette]: http://thinklafayette.com
-[lisablog]: http://blogs.usenix.org/
+[lisablog]: http://usenix.org/blog
+[lisa16]: http://usenix.org/conference/lisa16
 [sysadvent]: http://sysadvent.blogspot.com/
 [fedora]: http://fedoraproject.org
 [cca11]: http://cca11.org/
