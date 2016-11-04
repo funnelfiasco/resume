@@ -11,13 +11,24 @@
 ## Experience
 
 #### Cycle Computing, LLC
-*Senior Support Engineer (July 2013 - present)*
+*Technical Evangelist (June 2016 - present)*
+
+* Prepare technical marketing content such as blogs, videos, and white papers
+* Present company-relevant content at conferences
+* Work with software engineering team to guide feature development and planning in response to customer needs
+
+*Senior Support Engineer (July 2013 - June 2016)*
 
 * Manage the Support Engineering team
-* Develop and enforce company-wide support practices
-* Develop and maintain documentation and infrastructure related to customer support
+* Develop and enforce company-wide post-sales support practices
+* Develop and maintain documentation and infrastructure related to post-sales support
 * Develop workflow applications, batch scheduling tools, and configuration management infrastructure
 * Provide batch scheduler and cloud orchestration support to customers and community mailing lists
+
+#### The Next Platform
+*Contributing Author (November 2016 - present)*
+
+* Write original articles related to high performance computing and research
 
 #### Purdue University
 *Research Programmer, Rosen Center for Advanced Computing (June 2012 - June 2013)*
@@ -62,12 +73,13 @@
 
 ## External activities/memberships
 
-* Invited Talks Co-Chair, [LISA Conference][lisa16] (2016)
+* LISA Conference
+    * Invited Talks Co-Chair, [2016][lisa16]
+    * [Conference blogger][lisablog], 2010-2013, 2015
 * Community Moderator, [OpenSource.com][OSDC] (2015-present)
 * Member, Open Source Initiative (2014-present)
 * Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
-* Co-founder and tech talk coordinator, [Greater Lafayette Open Source SYmposium (GLOSSY)][GLOSSY] (2013-present)
-* Conference blogger, [LISA Conference][lisablog] (2010-2013, 2015)
+* Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-present)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
@@ -79,6 +91,9 @@
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
+* "Impact of licenses on open source software quality" [All Things Open](ato2016) (October 2016)
+* "HTCondor in the enterprise" [HTCondor Week][htcondorweek16] (May 2016)
+* "HTCondor at Cycle Computing: Better Answers. Faster." [HTCondor Week][htcondorweek15] (May 2015)
 * "A study on the impact of open source license selection on software technical debt" 2015 International Business & Education Conferences (March 2015) (session "Best Paper")
 * "Developing a scientific computing course for the undergraduate curriculum" (poster) [Summit for Educators in System Administration][sesa13] (November 2013)
 * "BLASTer: A hub-based tool for bioinformatics" [Grid and Cloud Computing and Applications][gca13] (July 2013)
@@ -103,4 +118,7 @@
 [gca13]: http://www.world-academy-of-science.org/worldcomp13/ws/conferences/gca13
 [sesa13]: https://www.usenix.org/conference/sesa13
 [osdc]: http://opensource.com
-[glossy]: http://opensourcelafayette.org
+[hacklafayette]: http://hacklafayette.com
+[htcondorweek15]: http://research.cs.wisc.edu/htcondor/HTCondorWeek2015/presentations/CottonB_CycleComputing.pdf
+[htcondorweek16]: http://research.cs.wisc.edu/htcondor/HTCondorWeek2016/presentations/CycleComputing.pdf
+[ato2016]: https://allthingsopen.org/2016/
