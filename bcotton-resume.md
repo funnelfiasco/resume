@@ -10,8 +10,12 @@
 
 ## Experience
 
-#### Cycle Computing, LLC
-*Technical Evangelist (June 2016 - present)*
+#### Microsoft (acquired Cycle Computing, September 2017)
+*Product Marketing Manager (September 2017 - present)*
+
+* HPC Marketing (details TBD)
+
+*Technical Evangelist (June 2016 - September 2017)*
 
 * Prepare technical marketing content such as blogs, videos, and white papers
 * Present company-relevant content at conferences
@@ -26,7 +30,7 @@
 * Provide batch scheduler and cloud orchestration support to customers and community mailing lists
 
 #### The Next Platform
-*Contributing Author (November 2016 - present)*
+*Contributing Author (November 2016 - March 2017)*
 
 * Write original articles related to high performance computing and research
 
@@ -76,16 +80,16 @@
 * LISA Conference
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010-2013, 2015
-* Community Moderator, [OpenSource.com][OSDC] (2015-present)
+* Community Moderator, [Openrsource.com][OSDC] (2015-present)
 * Member, Open Source Initiative (2014-present)
-* Contributing Writer, [Think Lafayette][thinklafayette] (2013-present)
 * Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-present)
+* Contributing Writer, [Think Lafayette][thinklafayette] (2013-2016)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
     * Contributing editor (2013-present)
 * [Fedora Project][fedora] (2009-present)
-    * condor package co-maintainer (2015-present)
+    * Package maintainer (2015-present)
     * Documentation Team Lead (2011-2013)
     * Documentation Writer (2009-present)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
