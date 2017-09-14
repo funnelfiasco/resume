@@ -13,7 +13,7 @@
 #### Microsoft (acquired Cycle Computing, September 2017)
 *Product Marketing Manager (September 2017 - present)*
 
-* HPC Marketing (details TBD)
+* Own HPC Marketing efforts for Microsoft Azure
 
 *Technical Evangelist (June 2016 - September 2017)*
 
