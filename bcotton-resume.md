@@ -13,7 +13,10 @@
 #### Microsoft (acquired Cycle Computing, September 2017)
 *Product Marketing Manager (September 2017 - present)*
 
-* Own HPC Marketing efforts for Microsoft Azure
+* Set marketing strategy for Microsoft Azure's Big Compute products and solutions
+* Work with partners to design and execute joint go-to-market strategies
+* Generate product collateral for internal and external audiences
+* Set and execute strategy for presence at trade shows and conferences
 
 *Technical Evangelist (June 2016 - September 2017)*
 
