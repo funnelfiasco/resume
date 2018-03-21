@@ -1,13 +1,6 @@
 # Benjamin J. Cotton
 *bcotton@funnelfiasco.com*
 
-## Education
-* M.S. in IT Project Management, granted December 2014
-     * Thesis title: Impact of license selection on open source software quality
-     * Purdue University, West Lafayette, IN
-* B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
-     * Purdue University, West Lafayette, IN
-
 ## Experience
 
 #### Microsoft (acquired Cycle Computing, September 2017)
@@ -18,7 +11,7 @@
 * Generate product collateral for internal and external audiences
 * Set and execute strategy for presence at trade shows and conferences
 
-*Technical Evangelist (June 2016 - September 2017)*
+*Technical Marketing Manager (June 2016 - September 2017)*
 
 * Prepare technical marketing content such as blogs, videos, and white papers
 * Present company-relevant content at conferences
@@ -66,17 +59,12 @@
 * Approve departmental IT purchases and maintain IT budget
 * Coordinate professional development of IT staff and provide training to faculty and staff
 
-*Temporary Service, Department of Earth & Atmospheric Sciences (May - September 2006)*
-
-* Provide support to users of Linux, Solaris, Mac OS X, and Windows platforms
-* Perform general labor services at the direction of the Assistant Department Head
-
-*Student Service, Department of Earth & Atmospheric Sciences (April 2002 - May 2006)*
-
-* Maintain Unidata LDM software for weather data ingest
-* Develop scripts to generate weather data images for web and desktop use
-* Provide support to users of data visualization software
-* Administer Forecast Game, including maintaining web pages and scripts, obtaining verification data, and handling player enrollment
+## Education
+* M.S. in IT Project Management, granted December 2014
+     * Thesis title: Impact of license selection on open source software quality
+     * Purdue University, West Lafayette, IN
+* B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
+     * Purdue University, West Lafayette, IN
 
 ## External activities/memberships
 
@@ -84,14 +72,16 @@
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010-2013, 2015
 * Community Moderator, [Openrsource.com][OSDC] (2015-present)
+    * Moderator's Choice Award winner (2017)
 * Member, Open Source Initiative (2014-present)
 * Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-present)
-* Contributing Writer, [Think Lafayette][thinklafayette] (2013-2016)
+* Contributing Writer, Think Lafayette (2013-2016)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
     * Contributing editor (2013-present)
 * [Fedora Project][fedora] (2009-present)
+    * Marketing team member (2017-present)
     * Package maintainer (2015-present)
     * Documentation Team Lead (2011-2013)
     * Documentation Writer (2009-present)
@@ -110,7 +100,6 @@
 * "Condor in your machine room and on your campus" (panel), [Condor Week][condorweek11] (May 2011)
 * "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), [Condor Week][condorweek11] (May 2011) 
 * "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), [Cloud Computing and Its Applications conference][cca11] (April 2011)
-* Condor BoF host, LISA Conference (November 2010)
 
 [thinklafayette]: http://thinklafayette.com
 [lisablog]: http://usenix.org/blog
