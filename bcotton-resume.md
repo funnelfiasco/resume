@@ -3,8 +3,16 @@
 
 ## Experience
 
+### Red Hat
+*Senior Program Manager (June 2018 - present)*
+
+* Plan and schedule Fedora releases
+* Track changes and features during the development cycle
+* Serve on Fedora Council
+* Coordinate community elections
+
 #### Microsoft (acquired Cycle Computing, September 2017)
-*Product Marketing Manager (September 2017 - present)*
+*Product Marketing Manager (September 2017 - June 2018)*
 
 * Set marketing strategy for Microsoft Azure's Big Compute products and solutions
 * Work with partners to design and execute joint go-to-market strategies
@@ -14,6 +22,7 @@
 *Technical Marketing Manager (June 2016 - September 2017)*
 
 * Prepare technical marketing content such as blogs, videos, and white papers
+* Manage social media channels and monthly newsletter
 * Present company-relevant content at conferences
 * Work with software engineering team to guide feature development and planning in response to customer needs
 
@@ -69,6 +78,7 @@
 ## External activities/memberships
 
 * LISA Conference
+    * Organizing Committee member, [2018][lisa18]
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010-2013, 2015
 * Community Moderator, [Openrsource.com][OSDC] (2015-present)
@@ -84,7 +94,8 @@
     * Marketing team member (2017-present)
     * Package maintainer (2015-present)
     * Documentation Team Lead (2011-2013)
-    * Documentation Writer (2009-present)
+    * Documentation Writer (2009-2017)
+* Writing portfolio [https://funnelfiasco.com/ben/portfolio.html](https://funnelfiasco.com/ben/portfolio.html)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
@@ -99,14 +110,12 @@
 * "The Good, the Bad, and the Ugly: Feedback Forum" (panel), [Condor Week][condorweek12] (May 2012)
 * "Condor in your machine room and on your campus" (panel), [Condor Week][condorweek11] (May 2011)
 * "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), [Condor Week][condorweek11] (May 2011) 
-* "Extending a Desktop Computing Grid with Cloud Resources" (extended abstract), [Cloud Computing and Its Applications conference][cca11] (April 2011)
 
-[thinklafayette]: http://thinklafayette.com
 [lisablog]: http://usenix.org/blog
 [lisa16]: http://usenix.org/conference/lisa16
+[lisa18]: http://usenix.org/conference/lisa18
 [sysadvent]: http://sysadvent.blogspot.com/
 [fedora]: http://fedoraproject.org
-[cca11]: http://cca11.org/
 [condorweek11]: http://www.cs.wisc.edu/condor/CondorWeek2011/
 [condorweek12]: http://www.cs.wisc.edu/condor/CondorWeek2012/
 [xsede12]: https://www.xsede.org/web/xsede12/
