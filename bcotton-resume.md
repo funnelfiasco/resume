@@ -84,7 +84,7 @@
 * Community Moderator, [Openrsource.com][OSDC] (2015-present)
     * Moderator's Choice Award winner (2017)
 * Member, Open Source Initiative (2014-present)
-* Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-present)
+* Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-2018)
 * Contributing Writer, Think Lafayette (2013-2016)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
