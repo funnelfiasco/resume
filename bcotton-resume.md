@@ -81,7 +81,7 @@
     * Organizing Committee member, [2018][lisa18]
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010-2013, 2015
-* Community Moderator, [Openrsource.com][OSDC] (2015-present)
+* Community Moderator, [Opensource.com][OSDC] (2015-present)
     * Moderator's Choice Award winner (2017)
 * Member, Open Source Initiative (2014-present)
 * Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-2018)
