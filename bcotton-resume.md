@@ -77,19 +77,21 @@
 
 ## External activities/memberships
 
+* Ambassador, [The Open Organization][openorg] (2019-present)
 * LISA Conference
     * Organizing Committee member, [2018][lisa18]
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010-2013, 2015
 * Community Moderator, [Opensource.com][OSDC] (2015-present)
     * Moderator's Choice Award winner (2017)
+* Senior Food Writer, [Lafayette Eats][lafeats] (2018-present)
 * Member, Open Source Initiative (2014-present)
 * Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-2018)
 * Contributing Writer, Think Lafayette (2013-2016)
 * Weather contributor, JConline.com (2010-2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
-    * Contributing editor (2013-present)
+    * Contributing editor (2013-2017)
 * [Fedora Project][fedora] (2009-present)
     * Marketing team member (2017-present)
     * Package maintainer (2015-present)
@@ -99,6 +101,8 @@
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
+* "Herding cats: project management in communities" [DevConf.cz][devconfcz2019b] (January 2019)
+* "Managing changes in open source projects" [DevConf.cz][devconfcz2019a] (January 2019)
 * "Impact of licenses on open source software quality" [All Things Open](ato2016) (October 2016)
 * "HTCondor in the enterprise" [HTCondor Week][htcondorweek16] (May 2016)
 * "HTCondor at Cycle Computing: Better Answers. Faster." [HTCondor Week][htcondorweek15] (May 2015)
@@ -127,3 +131,7 @@
 [htcondorweek15]: http://research.cs.wisc.edu/htcondor/HTCondorWeek2015/presentations/CottonB_CycleComputing.pdf
 [htcondorweek16]: http://research.cs.wisc.edu/htcondor/HTCondorWeek2016/presentations/CycleComputing.pdf
 [ato2016]: https://allthingsopen.org/2016/
+[openorg]: https://opensource.com/open-organization
+[lafeats]: https://www.lafayette-eats.com
+[devconfcz2019a]: http://devconf.info
+[devconfcz2019b]: https://www.youtube.com/watch?v=UtXI5QpH4Tc
