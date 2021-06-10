@@ -107,7 +107,7 @@
 * "Scheduling Your Open Source Project" [SeaGL][seagl2020] (November 2020)
 * "Hat Making: How Fedora is Run and Why" [openSUSE + LibreOffice Conference][oslo2020] (October 2020)
 * "We Won, Now What?" [DevConf.CZ][devconfcz2020] (January 2020) & [DevConf.US][devconfus2020] (September 2020)
-* "Content is Queen. Maximize open source project engagement with the right content, in the right place, at the right time" (panel) [Open Source Summit NA][ossna19] (August 2019)
+* "Content is Queen. Maximize open source project engagement with the right content, in the right place, at the right time" (panel) [Open Source Summit NA][ossna2019] (August 2019)
 * "Anti-marketing martketing: how to build authentic evangelism programs for open source projects" (panel) [Open Source Leadership Summit](osls2019) (March 2019)
 * "Herding cats: project management in communities" [DevConf.CZ][devconfcz2019b] (January 2019)
 * "Managing changes in open source projects" [DevConf.CZ][devconfcz2019a] (January 2019)
