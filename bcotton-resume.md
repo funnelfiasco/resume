@@ -106,7 +106,9 @@
 * "Stop Writing Your Own Infrastructure" (lightning talk) [LISA21][lisa21] (June 2021)
 * "Scheduling Your Open Source Project" [SeaGL][seagl2020] (November 2020)
 * "Hat Making: How Fedora is Run and Why" [openSUSE + LibreOffice Conference][oslo2020] (October 2020)
-* "We Won: Now What?" [DevConf.CZ][devconfcz2020] (January 2020) & [DevConf.US][devconfus2020] (September 2020)
+* "We Won, Now What?" [DevConf.CZ][devconfcz2020] (January 2020) & [DevConf.US][devconfus2020] (September 2020)
+* "Content is Queen. Maximize open source project engagement with the right content, in the right place, at the right time" (panel) [Open Source Summit NA][ossna19] (August 2019)
+* "Anti-marketing martketing: how to build authentic evangelism programs for open source projects" (panel) [Open Source Leadership Summit](osls2019) (March 2019)
 * "Herding cats: project management in communities" [DevConf.CZ][devconfcz2019b] (January 2019)
 * "Managing changes in open source projects" [DevConf.CZ][devconfcz2019a] (January 2019)
 * "Impact of licenses on open source software quality" [All Things Open][ato2016] (October 2016)
@@ -147,3 +149,5 @@
 [oslo2020]: https://events.opensuse.org/conferences/oSLO/program/proposals/3169
 [devconfcz2020]: https://www.youtube.com/watch?v=2K8JgY842CQ
 [devconfus2020]: https://www.youtube.com/watch?v=KjqtJrE6KR8
+[ossna2019]: https://ossna19.sched.com/event/PUS3/panel-discussion-content-is-queen-maximize-open-source-project-engagement-with-the-right-content-in-the-right-place-at-the-right-time-jennifer-lankford-lankford-communications-amanda-katona-vmware-ben-cotton-red-hat-and-kim-mcmahon-cloud-nativ
+[osls2019]: https://sched.co/LG6H
