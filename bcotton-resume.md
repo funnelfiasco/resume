@@ -82,7 +82,8 @@
     * Organizing Committee member, [2018][lisa18]
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010-2013, 2015
-* Community Moderator, [Opensource.com][OSDC] (2015-present)
+* Outreach Committee Co-Chair, [Seattle GNU/Linux (SeaGL) Conference][seagl] (2020-present)
+* Community Moderator, [Opensource.com][OSDC] (2015-2020)
     * Moderator's Choice Award winner (2017)
 * Senior Food Writer, [Lafayette Eats][lafeats] (2018-present)
 * Member, Open Source Initiative (2014-present)
@@ -93,10 +94,11 @@
     * Contributing writer (2009, 2010, 2012)
     * Contributing editor (2013-2017)
 * [Fedora Project][fedora] (2009-present)
-    * Marketing team member (2017-present)
+    * Marketing team member (2017-2020)
     * Package maintainer (2015-present)
     * Documentation Team Lead (2011-2013)
     * Documentation Writer (2009-2017)
+    * Magazine Editor (2019-2021)
 * Writing portfolio [https://funnelfiasco.com/ben/portfolio.html](https://funnelfiasco.com/ben/portfolio.html)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
@@ -131,6 +133,7 @@
 [gca13]: http://www.world-academy-of-science.org/worldcomp13/ws/conferences/gca13
 [sesa13]: https://www.usenix.org/conference/sesa13
 [osdc]: http://opensource.com
+[seagl]: https://seagl.org
 [hacklafayette]: http://hacklafayette.com
 [htcondorweek15]: http://research.cs.wisc.edu/htcondor/HTCondorWeek2015/presentations/CottonB_CycleComputing.pdf
 [htcondorweek16]: http://research.cs.wisc.edu/htcondor/HTCondorWeek2016/presentations/CycleComputing.pdf
