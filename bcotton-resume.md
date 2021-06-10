@@ -101,9 +101,13 @@
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
-* "Herding cats: project management in communities" [DevConf.cz][devconfcz2019b] (January 2019)
-* "Managing changes in open source projects" [DevConf.cz][devconfcz2019a] (January 2019)
-* "Impact of licenses on open source software quality" [All Things Open](ato2016) (October 2016)
+* "Stop Writing Your Own Infrastructure" (lightning talk) [LISA21][lisa21] (June 2021)
+* "Scheduling Your Open Source Project" [SeaGL][seagl2020] (November 2020)
+* "Hat Making: How Fedora is Run and Why" [openSUSE + LibreOffice Conference][oslo2020] (October 2020)
+* "We Won: Now What?" [DevConf.CZ][devconfcz2020] (January 2020) & [DevConf.US][devconfus2020] (September 2020)
+* "Herding cats: project management in communities" [DevConf.CZ][devconfcz2019b] (January 2019)
+* "Managing changes in open source projects" [DevConf.CZ][devconfcz2019a] (January 2019)
+* "Impact of licenses on open source software quality" [All Things Open][ato2016] (October 2016)
 * "HTCondor in the enterprise" [HTCondor Week][htcondorweek16] (May 2016)
 * "HTCondor at Cycle Computing: Better Answers. Faster." [HTCondor Week][htcondorweek15] (May 2015)
 * "A study on the impact of open source license selection on software technical debt" 2015 International Business & Education Conferences (March 2015) (session "Best Paper")
@@ -135,3 +139,8 @@
 [lafeats]: https://www.lafayette-eats.com
 [devconfcz2019a]: http://devconf.info
 [devconfcz2019b]: https://www.youtube.com/watch?v=UtXI5QpH4Tc
+[lisa21]: https://www.usenix.org/conference/lisa21/presentation/cotton
+[seagl2020]: https://osem.seagl.org/conferences/seagl2020/program/proposals/752
+[oslo2020]: https://events.opensuse.org/conferences/oSLO/program/proposals/3169
+[devconfcz2020]: https://www.youtube.com/watch?v=2K8JgY842CQ
+[devconfus2020]: https://www.youtube.com/watch?v=KjqtJrE6KR8
