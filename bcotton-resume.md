@@ -4,29 +4,32 @@
 ## Experience
 
 ### Red Hat
-*Senior Program Manager (June 2018 - present)*
+*Principal Program Manager (October 2021 – present)*
 
-* Plan and schedule Fedora releases
-* Track changes and features during the development cycle
+*Senior Program Manager (June 2018 – October 2021)*
+
+* Bootstrap CentOS Stream program to make Red Hat Enterprise Linux development public
+* Plan and schedule Fedora Linux releases
+* Track changes and features during the Fedora Linux development cycle
 * Serve on Fedora Council
-* Coordinate community elections
+* Coordinate Fedora community elections
 
 #### Microsoft (acquired Cycle Computing, September 2017)
-*Product Marketing Manager (September 2017 - June 2018)*
+*Product Marketing Manager (September 2017 – June 2018)*
 
 * Set marketing strategy for Microsoft Azure's Big Compute products and solutions
 * Work with partners to design and execute joint go-to-market strategies
 * Generate product collateral for internal and external audiences
 * Set and execute strategy for presence at trade shows and conferences
 
-*Technical Marketing Manager (June 2016 - September 2017)*
+*Technical Marketing Manager (June 2016 – September 2017)*
 
 * Prepare technical marketing content such as blogs, videos, and white papers
 * Manage social media channels and monthly newsletter
 * Present company-relevant content at conferences
 * Work with software engineering team to guide feature development and planning in response to customer needs
 
-*Senior Support Engineer (July 2013 - June 2016)*
+*Senior Support Engineer (July 2013 – June 2016)*
 
 * Manage the Support Engineering team
 * Develop and enforce company-wide post-sales support practices
@@ -35,12 +38,12 @@
 * Provide batch scheduler and cloud orchestration support to customers and community mailing lists
 
 #### The Next Platform
-*Contributing Author (November 2016 - March 2017)*
+*Contributing Author (November 2016 – March 2017)*
 
 * Write original articles related to high performance computing and research
 
 #### Purdue University
-*Research Programmer, Rosen Center for Advanced Computing (June 2012 - June 2013)*
+*Research Programmer, Rosen Center for Advanced Computing (June 2012 – June 2013)*
 
 * Serve as release manager for developed applications
 * Engage with science communities to use and develop science hubs
@@ -48,7 +51,7 @@
 * Coordinate a project to bring high performance computing to the classroom
 * Contribute to grant proposals involving high performance computing
 
-*Systems Research Engineer, IT Systems and Operations (October 2009 - May 2012)*
+*Systems Research Engineer, IT Systems and Operations (October 2009 – May 2012)*
 
 * Curate and develop HTCondor distributed computing environment at Purdue
 * Provide systems and user support for national grid computing activities (e.g. TeraGrid/XSEDE)
@@ -58,13 +61,13 @@
 * Serve as Security Officer for IT Systems and Operations, representing the organization to the CISO and serving as a liaison with the Networks and Security group.
 * Supervise 10-12 student employees
 
-*Unix Workstation Support/Systems Administrator, Department of Earth & Atmospheric Sciences (September 2006 - October 2009)*
+*Unix Workstation Support/Systems Administrator, Department of Earth & Atmospheric Sciences (September 2006 – October 2009)*
 
 * Maintain and develop departmental Linux and Solaris servers
 * Provide support to users of Linux, Solaris, Mac OS X, and Windows platforms
 * Serve as lead for departmental IT staff and representative to department faculty and other groups on campus
 * Serve as Security Contact for department, working with University- and College-level security staff to respond to security incidents in the department
-* Supervise 3-5 student employees
+* Supervise 3–5 student employees
 * Approve departmental IT purchases and maintain IT budget
 * Coordinate professional development of IT staff and provide training to faculty and staff
 
@@ -81,24 +84,23 @@
 * LISA Conference
     * Organizing Committee member, [2018][lisa18]
     * Invited Talks Co-Chair, [2016][lisa16]
-    * [Conference blogger][lisablog], 2010-2013, 2015
-* Outreach Committee Co-Chair, [Seattle GNU/Linux (SeaGL) Conference][seagl] (2020-present)
-* Community Moderator, [Opensource.com][OSDC] (2015-2020)
+    * [Conference blogger][lisablog], 2010–2013, 2015
+* Outreach Committee Co-Chair, [Seattle GNU/Linux (SeaGL) Conference][seagl] (2020–present)
+* Community Moderator, [Opensource.com][OSDC] (2015–2020)
     * Moderator's Choice Award winner (2017)
-* Senior Food Writer, [Lafayette Eats][lafeats] (2018-present)
-* Member, Open Source Initiative (2014-present)
-* Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013-2018)
-* Contributing Writer, Think Lafayette (2013-2016)
-* Weather contributor, JConline.com (2010-2012)
+* Senior Food Writer, [Lafayette Eats][lafeats] (2018–present)
+* Member, Open Source Initiative (2014–present)
+* Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013–2018)
+* Contributing Writer, Think Lafayette (2013–2016)
+* Weather contributor, JConline.com (2010–2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
-    * Contributing editor (2013-2017)
-* [Fedora Project][fedora] (2009-present)
-    * Marketing team member (2017-2020)
-    * Package maintainer (2015-present)
-    * Documentation Team Lead (2011-2013)
-    * Documentation Writer (2009-2017)
-    * Magazine Editor (2019-2021)
+    * Contributing editor (2013–2017)
+* [Fedora Project][fedora] (2009–present)
+    * Package maintainer (2015–present)
+    * Documentation Team Lead (2011–2013)
+    * Documentation Writer (2009–2017)
+    * Magazine Editor (2019–2021)
 * Writing portfolio [https://funnelfiasco.com/ben/portfolio.html](https://funnelfiasco.com/ben/portfolio.html)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
