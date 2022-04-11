@@ -105,6 +105,7 @@
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Publications/presentations
+* "Best Practices for Formal Mentorship Programs" [Fedora Mentor Summit](https://youtu.be/NdGOXmeszxU) (April 2022)
 * "Your bug tracker and you" [SeaGL](https://seagl.org/archive/2021/your-bug-tracker-and-you) (November 2021)
 * "Hold on loosely: project management in open source" (panel) [Practical Open Source Information](https://eventyay.com/e/e7dfbfc4) (September 2021)
 * "Stop Writing Your Own Infrastructure" (lightning talk) [LISA21][lisa21] (June 2021)
