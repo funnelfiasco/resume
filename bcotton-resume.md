@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 # Benjamin J. Cotton
 *bcotton@funnelfiasco.com*
 
@@ -78,8 +79,9 @@
 * B.S. in Synoptic Meteorology (minor: Organizational Leadership), granted May 2006
      * Purdue University, West Lafayette, IN
 
-## External activities/memberships
+## External activities
 
+* Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/) (The Pragmatic Bookshelf, 2022)
 * Ambassador, [The Open Organization][openorg] (2019-present)
 * LISA Conference
     * Organizing Committee member, [2018][lisa18]
@@ -104,7 +106,8 @@
 * Writing portfolio [https://funnelfiasco.com/ben/portfolio.html](https://funnelfiasco.com/ben/portfolio.html)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
-## Publications/presentations
+## Selected talks
+* "Your bug tracker and you" [SCaLE 19x](https://www.socallinuxexpo.org/scale/19x/presentations/your-bug-tracker-and-you) (July 2022)
 * "Best Practices for Formal Mentorship Programs" [Fedora Mentor Summit](https://youtu.be/NdGOXmeszxU) (April 2022)
 * "Your bug tracker and you" [SeaGL](https://seagl.org/archive/2021/your-bug-tracker-and-you) (November 2021)
 * "Hold on loosely: project management in open source" (panel) [Practical Open Source Information](https://eventyay.com/e/e7dfbfc4) (September 2021)
@@ -117,16 +120,8 @@
 * "Herding cats: project management in communities" [DevConf.CZ][devconfcz2019b] (January 2019)
 * "Managing changes in open source projects" [DevConf.CZ][devconfcz2019a] (January 2019)
 * "Impact of licenses on open source software quality" [All Things Open][ato2016] (October 2016)
-* "HTCondor in the enterprise" [HTCondor Week][htcondorweek16] (May 2016)
-* "HTCondor at Cycle Computing: Better Answers. Faster." [HTCondor Week][htcondorweek15] (May 2015)
-* "A study on the impact of open source license selection on software technical debt" 2015 International Business & Education Conferences (March 2015) (session "Best Paper")
-* "Developing a scientific computing course for the undergraduate curriculum" (poster) [Summit for Educators in System Administration][sesa13] (November 2013)
-* "BLASTer: A hub-based tool for bioinformatics" [Grid and Cloud Computing and Applications][gca13] (July 2013)
-* "DiaGrid - Instant Access to High Throughput Computing" (presentation) [OSG Campus Infrastucture Community Workshop][osgcicw12] (November 2012)
-* "High-Throughput Computing With XSEDE" (tutorial), [XSEDE 12][xsede12] (July 2012)
-* "The Good, the Bad, and the Ugly: Feedback Forum" (panel), [Condor Week][condorweek12] (May 2012)
-* "Condor in your machine room and on your campus" (panel), [Condor Week][condorweek11] (May 2011)
-* "Condor at Purdue: Vegetating, Virtualization, and Videos" (presentation), [Condor Week][condorweek11] (May 2011) 
+
+See more at https://funnelfiasco.com/talks/
 
 [lisablog]: http://usenix.org/blog
 [lisa16]: http://usenix.org/conference/lisa16
