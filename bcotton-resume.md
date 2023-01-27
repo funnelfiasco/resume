@@ -2,6 +2,8 @@
 # Benjamin J. Cotton
 *bcotton@funnelfiasco.com*
 
+Author of [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/).
+
 ## Experience
 
 ### Red Hat
@@ -14,6 +16,7 @@
 * Track changes and features during the Fedora Linux development cycle
 * Serve on Fedora Council
 * Coordinate Fedora community elections
+* Contribute to key parts of the Fedora Project when under-resourced
 
 #### Microsoft (acquired Cycle Computing, September 2017)
 *Product Marketing Manager (September 2017 – June 2018)*
@@ -81,17 +84,15 @@
 
 ## External activities
 
-* Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/) (The Pragmatic Bookshelf, 2022)
+<!-- * Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/) (The Pragmatic Bookshelf, 2022) -->
 * Ambassador, [The Open Organization][openorg] (2019-present)
 * LISA Conference
     * Organizing Committee member, [2018][lisa18]
     * Invited Talks Co-Chair, [2016][lisa16]
     * [Conference blogger][lisablog], 2010–2013, 2015
-* Outreach Committee Co-Chair, [Seattle GNU/Linux (SeaGL) Conference][seagl] (2020–present)
+* Outreach Committee Co-Chair, [Seattle GNU/Linux (SeaGL) Conference][seagl] (2020–2021)
 * Community Moderator, [Opensource.com][OSDC] (2015–2020)
     * Moderator's Choice Award winner (2017)
-* Senior Food Writer, [Lafayette Eats][lafeats] (2018–present)
-* Member, Open Source Initiative (2014–present)
 * Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013–2018)
 * Contributing Writer, Think Lafayette (2013–2016)
 * Weather contributor, JConline.com (2010–2012)
@@ -121,7 +122,7 @@
 * "Managing changes in open source projects" [DevConf.CZ][devconfcz2019a] (January 2019)
 * "Impact of licenses on open source software quality" [All Things Open][ato2016] (October 2016)
 
-See more at https://funnelfiasco.com/talks/
+See more at [https://funnelfiasco.com/talks/](https://funnelfiasco.com/talks/)
 
 [lisablog]: http://usenix.org/blog
 [lisa16]: http://usenix.org/conference/lisa16
