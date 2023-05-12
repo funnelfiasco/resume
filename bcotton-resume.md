@@ -7,7 +7,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 ## Experience
 
 ### Red Hat
-*Principal Program Manager (October 2021 – present)*
+*Principal Program Manager (October 2021 – May 2023)*
 
 *Senior Program Manager (June 2018 – October 2021)*
 
