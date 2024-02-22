@@ -6,6 +6,14 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 
 ## Experience
 
+### Docker
+*Staff Product Marketing Manager, Open Source (June 2023 – February 2024)*
+
+* Develop messaging for producers and consumers of open source software.
+* Develop and improve internal processes for working in open source communities.
+* Work with partner companies and projects to develop blog posts and webinar content.
+* Act as co-lead of the Docker-Sponsored Open Source program.
+
 ### Red Hat
 *Principal Program Manager (October 2021 – May 2023)*
 
