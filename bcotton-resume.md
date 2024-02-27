@@ -93,6 +93,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 ## External activities
 
 <!-- * Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/) (The Pragmatic Bookshelf, 2022) -->
+* External expert judge, [Sovereign Tech Fund Contribute Back Challenge](https://www.sovereigntechfund.de/programs/challenges) (December 2023)
 * Ambassador, [The Open Organization][openorg] (2019-present)
 * LISA Conference
     * Organizing Committee member, [2018][lisa18]
