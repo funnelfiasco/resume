@@ -12,6 +12,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * Develop messaging for producers and consumers of open source software.
 * Develop and improve internal processes for working in open source communities.
 * Work with partner companies and projects to develop blog posts and webinar content.
+* Engage with industry foundations (Linux Foundation, Cloud Native Computing Foundation, OpenSSF).
 * Act as co-lead of the Docker-Sponsored Open Source program.
 
 ### Red Hat
