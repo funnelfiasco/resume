@@ -6,6 +6,16 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 
 ## Experience
 
+### Kusari
+*Open Source Community Lead (April 2024 – present)*
+
+* Establish and drive OKRs and build programs that will grow, engage, and delight the GUAC community and support the overall mission.
+* Develop and implement practical, repeatable programs and systems to nurture and grow a robust community.
+* Deliver written & spoken content and run interactive & engaging events.
+* Establish and maintain the infrastructure and workflows for ongoing communication, participation, and collaboration within the community using social media, Slack, website, community calls, and other organic methods.
+* Actively participate as a Kusari representative in the Community Leadership Core and OpenSSF to grow skills, learn from and support others, and share learnings internally to build relationships and help everyone succeed.
+* Set metrics, provide tracking updates, and report quarterly results in community health and success. Identify trends and patterns and seek to optimize/ improve the community.
+
 ### Docker
 *Staff Product Marketing Manager, Open Source (June 2023 – February 2024)*
 
