@@ -37,7 +37,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * Coordinate Fedora community elections
 * Contribute to key parts of the Fedora Project when under-resourced
 
-#### Microsoft (acquired Cycle Computing, September 2017)
+### Microsoft (acquired Cycle Computing, September 2017)
 *Product Marketing Manager (September 2017 – June 2018)*
 
 * Set marketing strategy for Microsoft Azure's Big Compute products and solutions
@@ -60,12 +60,12 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * Develop workflow applications, batch scheduling tools, and configuration management infrastructure
 * Provide batch scheduler and cloud orchestration support to customers and community mailing lists
 
-#### The Next Platform
+### The Next Platform
 *Contributing Author (November 2016 – March 2017)*
 
 * Write original articles related to high performance computing and research
 
-#### Purdue University
+### Purdue University
 *Research Programmer, Rosen Center for Advanced Computing (June 2012 – June 2013)*
 
 * Serve as release manager for developed applications
