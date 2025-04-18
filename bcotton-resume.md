@@ -9,21 +9,18 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 ### Kusari
 *Open Source Community Lead (April 2024 – present)*
 
-* Establish and drive OKRs and build programs that will grow, engage, and delight the GUAC community and support the overall mission.
-* Develop and implement practical, repeatable programs and systems to nurture and grow a robust community.
-* Deliver written & spoken content and run interactive & engaging events.
-* Establish and maintain the infrastructure and workflows for ongoing communication, participation, and collaboration within the community using social media, Slack, website, community calls, and other organic methods.
-* Actively participate as a Kusari representative in the Community Leadership Core and OpenSSF to grow skills, learn from and support others, and share learnings internally to build relationships and help everyone succeed.
-* Set metrics, provide tracking updates, and report quarterly results in community health and success. Identify trends and patterns and seek to optimize/ improve the community.
+* Develop and implement practical, repeatable programs and systems to nurture and grow a robust community
+* Deliver written & spoken content and run interactive & engaging events
+* Actively participate as a Kusari representative in OpenSSF projects
+* Set metrics, provide tracking updates, and report quarterly results in community health and success. Identify trends and patterns and seek to optimize/improve the community
 
 ### Docker
 *Staff Product Marketing Manager, Open Source (June 2023 – February 2024)*
 
-* Develop messaging for producers and consumers of open source software.
-* Develop and improve internal processes for working in open source communities.
-* Work with partner companies and projects to develop blog posts and webinar content.
-* Engage with industry foundations (Linux Foundation, Cloud Native Computing Foundation, OpenSSF).
-* Act as co-lead of the Docker-Sponsored Open Source program.
+* Develop messaging for producers and consumers of open source software
+* Work with partner companies and projects to develop blog posts and webinar content
+* Engage with industry foundations (Linux Foundation, Cloud Native Computing Foundation, OpenSSF)
+* Act as co-lead of the Docker-Sponsored Open Source program
 
 ### Red Hat
 *Principal Program Manager (October 2021 – May 2023)*
@@ -47,7 +44,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 
 *Technical Marketing Manager (June 2016 – September 2017)*
 
-* Prepare technical marketing content such as blogs, videos, and white papers
+* Prepare technical marketing content such as blog posts, videos, and white papers
 * Manage social media channels and monthly newsletter
 * Present company-relevant content at conferences
 * Work with software engineering team to guide feature development and planning in response to customer needs
@@ -59,11 +56,6 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * Develop and maintain documentation and infrastructure related to post-sales support
 * Develop workflow applications, batch scheduling tools, and configuration management infrastructure
 * Provide batch scheduler and cloud orchestration support to customers and community mailing lists
-
-### The Next Platform
-*Contributing Author (November 2016 – March 2017)*
-
-* Write original articles related to high performance computing and research
 
 ### Purdue University
 *Research Programmer, Rosen Center for Advanced Computing (June 2012 – June 2013)*
@@ -103,26 +95,23 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 
 ## External activities
 
-<!-- * Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/) (The Pragmatic Bookshelf, 2022) -->
+* [OSPS Baseline](https://baseline.openssf.org) SIG Lead (2025-present)
+* The Pragmatic Bookshelf
+    * Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)
+    * Technical reviewer, [*Business Success with Open Source*](https://pragprog.com/titles/vbfoss/business-success-with-open-source/)
+    * Technical reviewer, [*Guiding Star OKRs*](https://pragprog.com/titles/snokrs/guiding-star-okrs/)
+    * Technical reviewer, [*Forge Your Future with Open Source*](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/)
 * External expert judge, [Sovereign Tech Fund Contribute Back Challenge](https://www.sovereigntechfund.de/programs/challenges) (December 2023)
-* Ambassador, [The Open Organization][openorg] (2019-present)
-* LISA Conference
-    * Organizing Committee member, [2018][lisa18]
-    * Invited Talks Co-Chair, [2016][lisa16]
-    * [Conference blogger][lisablog], 2010–2013, 2015
 * Outreach Committee Co-Chair, [Seattle GNU/Linux (SeaGL) Conference][seagl] (2020–2021)
 * Community Moderator, [Opensource.com][OSDC] (2015–2020)
-    * Moderator's Choice Award winner (2017)
+* Contributing author, [The Next Platform](https://nextplatform.com) (2016-2017)
 * Co-founder and tech talk coordinator, [HackLafayette][hacklafayette] (2013–2018)
-* Contributing Writer, Think Lafayette (2013–2016)
-* Weather contributor, JConline.com (2010–2012)
 * [Sysadvent Blog][sysadvent]
     * Contributing writer (2009, 2010, 2012)
     * Contributing editor (2013–2017)
 * [Fedora Project][fedora] (2009–present)
     * Package maintainer (2015–present)
-    * Documentation Team Lead (2011–2013)
-    * Documentation Writer (2009–2017)
+    * Documentation Writer (2009–2017, team lead 2011-2013)
     * Magazine Editor (2019–2021)
 * Writing portfolio [https://funnelfiasco.com/ben/portfolio.html](https://funnelfiasco.com/ben/portfolio.html)
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
