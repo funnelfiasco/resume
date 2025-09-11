@@ -117,6 +117,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Selected talks
+* "Improving Security Data with ORBIT" (keynote) [OpenSSF Community Day Europe](https://openssfcdeu2025.sched.com/) (August 2025)
 * "Coopetition: open source projects working together" [Apereo Foundation Micro Conference series](https://apereo.civicrm.org/civicrm/event/info?reset=1&id=289) (March 2024)
 * "Your bug tracker and you" [SCaLE 19x](https://www.socallinuxexpo.org/scale/19x/presentations/your-bug-tracker-and-you) (July 2022)
 * "Best Practices for Formal Mentorship Programs" [Fedora Mentor Summit](https://youtu.be/NdGOXmeszxU) (April 2022)
