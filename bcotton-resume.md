@@ -2,17 +2,18 @@
 # Benjamin J. Cotton
 *bcotton@funnelfiasco.com*
 
-Author of [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/).
+Author of [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/) and recipient of the OpenSSF Golden Egg Award.
 
 ## Experience
 
 ### Kusari
 *Open Source Community Lead (April 2024 – present)*
 
-* Develop and implement practical, repeatable programs and systems to nurture and grow a robust community
-* Deliver written & spoken content and run interactive & engaging events
-* Actively participate as a Kusari representative in OpenSSF projects
-* Set metrics, provide tracking updates, and report quarterly results in community health and success. Identify trends and patterns and seek to optimize/improve the community
+* Actively participate in OpenSSF projects, including GUAC and OSPS Baseline
+* Contribute to key open source projects for Kusari's products and mission
+* Represent the interests of open source personae in product development and documentation
+* Deliver written & spoken content for open source audiences
+* Create product videos, documentation, and blog posts
 
 ### Docker
 *Staff Product Marketing Manager, Open Source (June 2023 – February 2024)*
@@ -20,7 +21,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * Develop messaging for producers and consumers of open source software
 * Work with partner companies and projects to develop blog posts and webinar content
 * Engage with industry foundations (Linux Foundation, Cloud Native Computing Foundation, OpenSSF)
-* Act as co-lead of the Docker-Sponsored Open Source program
+* Co-lead the Docker-Sponsored Open Source program
 
 ### Red Hat
 *Principal Program Manager (October 2021 – May 2023)*
