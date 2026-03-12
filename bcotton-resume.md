@@ -9,7 +9,8 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 ### Kusari
 *Open Source Community Lead (April 2024 – present)*
 
-* Actively participate in OpenSSF projects, including GUAC and OSPS Baseline
+* Lead OpenSSF's OSPS Baseline SIG, coordinating control catalog and tooling
+* Lead kusari-cli software engineering and user exeperience
 * Contribute to key open source projects for Kusari's products and mission
 * Represent the interests of open source personae in product development and documentation
 * Deliver written & spoken content for open source audiences
@@ -61,7 +62,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 ### Purdue University
 *Research Programmer, Rosen Center for Advanced Computing (June 2012 – June 2013)*
 
-* Serve as release manager for developed applications
+* Serve as engineering lead for Center-developed applications
 * Engage with science communities to use and develop science hubs
 * Provide training and documentation to users of scientific computing tools
 * Coordinate a project to bring high performance computing to the classroom
