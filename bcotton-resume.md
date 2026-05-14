@@ -14,7 +14,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * Contribute to key open source projects for Kusari's products and mission
 * Represent the interests of open source personae in product development and documentation
 * Deliver written & spoken content for open source audiences
-* Create product videos, documentation, and blog posts
+* Create product videos, demos, documentation, and blog posts
 
 ### Docker
 *Staff Product Marketing Manager, Open Source (June 2023 – February 2024)*
@@ -97,6 +97,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 
 ## External activities
 
+* OpenSSF Ambassador (2026-present)
 * [OSPS Baseline](https://baseline.openssf.org) SIG Lead (2025-present)
 * The Pragmatic Bookshelf
     * Author, [*Program Management for Open Source Projects*](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)
@@ -119,6 +120,7 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 * GitHub site: [https://github.com/funnelfiasco](https://github.com/funnelfiasco)
 
 ## Selected talks
+* "You'd better start believing in supply chains because you're in one" [SCaLE 23x](https://www.socallinuxexpo.org/scale/23x/presentations/youd-better-start-believing-supply-chains-because-youre-one) (March 2026)
 * "Improving Security Data with ORBIT" (keynote) [OpenSSF Community Day Europe](https://openssfcdeu2025.sched.com/) (August 2025)
 * "Coopetition: open source projects working together" [Apereo Foundation Micro Conference series](https://apereo.civicrm.org/civicrm/event/info?reset=1&id=289) (March 2024)
 * "Your bug tracker and you" [SCaLE 19x](https://www.socallinuxexpo.org/scale/19x/presentations/your-bug-tracker-and-you) (July 2022)
