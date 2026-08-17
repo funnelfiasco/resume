@@ -7,10 +7,9 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 ## Experience
 
 ### Kusari
-*Open Source Community Lead (April 2024 – present)*
+*Open Source & Ecosystem Lead (April 2024 – present)*
 
 * Lead OpenSSF's OSPS Baseline SIG, coordinating control catalog and tooling
-* Lead kusari-cli software engineering and user exeperience
 * Contribute to key open source projects for Kusari's products and mission
 * Represent the interests of open source personae in product development and documentation
 * Deliver written & spoken content for open source audiences
