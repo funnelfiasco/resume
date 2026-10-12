@@ -6,6 +6,17 @@ Author of [*Program Management for Open Source Projects*](https://pragprog.com/t
 
 ## Experience
 
+### Linux Foundation
+*Director of Security Consultancy, OpenSSF (October 2026 – present)*
+
+* Define and launch the LF Security Services portfolio.
+* Act as a senior-facing liaison to OSS maintainers, foundation leadership, and member organizations.
+* Coordinate closely with the Akrites SIRT to support CVD readiness, incident preparedness, and ecosystem response.
+* Ensure outputs are high-quality, reusable, and suitable for broad ecosystem adoption.
+* Develop templates, maturity models, assessment frameworks, and reusable playbooks.
+* Partner with Training & Education and the OpenSSF community to translate findings into scalable learning content.
+* Support budget planning, reporting, and roadmap development.
+
 ### Kusari
 *Open Source & Ecosystem Lead (April 2024 – October 2026)*
 
